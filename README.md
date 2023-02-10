@@ -16,4 +16,3 @@ Os usuários devem ser capazes de:
 
 - Semantic HTML5 markup
 - CSS custom properties
-- Flexbox
