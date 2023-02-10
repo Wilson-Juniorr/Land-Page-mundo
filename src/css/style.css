@@ -3,10 +3,8 @@
 font-family: 'Bodoni Moda', serif;
 
 
-
 /* Reset */
 *{
-    
     
 }
 
@@ -74,7 +72,7 @@ strong:hover{
     transition: height 1s ease-in-out;
 }
   
-  :target #elemento {
+ :target #elemento {
     height: 100px;
 }
   

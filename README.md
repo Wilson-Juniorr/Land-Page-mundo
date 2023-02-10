@@ -1,0 +1,19 @@
+<h1>Projeto Land Page mundo</h1>
+<p>Projeto desenvolvido para treinar o Flexbox</p>
+
+### O desafio
+
+Os usuários devem ser capazes de:
+
+- Veja o layout ideal dependendo do tamanho da tela do dispositivo
+- Veja os estados de foco e foco para elementos interativos
+
+### Captura de tela
+
+![](./src/img/site.png)
+
+### Construído com
+
+- Semantic HTML5 markup
+- CSS custom properties
+- Flexbox
